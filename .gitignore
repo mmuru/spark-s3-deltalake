@@ -1,0 +1,8 @@
+*~
+*.pyc
+.DS_Store
+.tox
+.coverage
+.idea/*
+.python-version
+.vscode
