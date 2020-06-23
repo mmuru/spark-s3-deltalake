@@ -12,7 +12,7 @@ Integrate S3 with DeltaLake
   * aws-java-sdk-core-1.10.6.jar
   * aws-java-sdk-s3-1.10.6.jar
 
-# Run the job
+# Run the spark job
 ```sh
 sh run_deltalake_job.sh
 ```
